@@ -23,8 +23,8 @@ A secure PHP-based user authentication system with a stylish Matrix-inspired int
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/matrix-auth-system.git
-   cd matrix-auth-system
+   git clone https://github.com/Japrolol/Matrix_SimpleLoginSystem_PHP.git
+   ```
 
 2. **Import the SQL file into your database**
 3. **Configure the database credentials in functions.php**
